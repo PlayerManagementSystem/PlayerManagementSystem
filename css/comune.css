@@ -1,0 +1,47 @@
+/*
+ * CSS Comune a tutte le pagine
+ */
+
+
+/* Minilogo */
+
+.navbar-brand {
+    padding: 10px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+#wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -60px;
+    ;
+}
+
+.main-container {
+    padding-top: 60px;
+}
+
+hr {
+    color: #42ACEA;
+    background-color: #42ACEA;
+    border-color: #42ACEA;
+}
+
+#footer,
+#push {
+    text-align: center;
+    height: 60px;
+}
+
+#info {
+    margin: 20px 0;
+}
+
+#footer {
+    background-color: #F5F5F5;
+}
